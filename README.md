@@ -18,7 +18,7 @@ Room Database
 
 Mutable LiveData
 
-SharedPreferences
+Kotlin Coroutines
 
 Navigation component
 
